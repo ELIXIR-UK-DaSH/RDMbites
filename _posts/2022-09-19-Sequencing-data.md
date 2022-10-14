@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "RDMbites -Sequencing Data"
+title: "The RDMbites collection to learn how to manage sequencing data"
 date: 2022-09-19 12:00:00 -0000
 categories: RDMbites Sequencing-Data
 ---
