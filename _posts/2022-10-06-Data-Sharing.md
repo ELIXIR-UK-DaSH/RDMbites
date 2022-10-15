@@ -6,8 +6,9 @@ categories: RDMbites Data SHaring
 ---
 The RDMbites collection to learn how  about Data Protection
 
+<br />
 {% include youtube.html id="iaZInoaHa04" %}
-
+<br />
 {% include youtube.html id="nKKyax_3k4A" %}
 
  
