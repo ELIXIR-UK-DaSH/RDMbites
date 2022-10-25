@@ -15,7 +15,7 @@ bioschemas:
   author: ["Fred Dibnah", "Niall Beard"]
   contributor:
     - "@type": Person
-      name: "Frank Spencer"
+      name: "Krzys Poterlowicz"
   description: "In order to establish higher search results for online resources."
   keywords: "schemaorg, TeSS"
   license: CC-BY 4.0
